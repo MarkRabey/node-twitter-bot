@@ -1,0 +1,9 @@
+{
+	"name":"node-twitter-bot",
+	"main":"index.html",
+	"window": {
+		"toolbar":false,
+		"height":600,
+		"wdith":100
+	}
+}
